@@ -1,4 +1,4 @@
-require "awesome_csv"
+require "awesome_print"
 require "csv"
 
 headers = ["id", "name", "mass", "distance"]
